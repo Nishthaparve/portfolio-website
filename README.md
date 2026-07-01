@@ -96,8 +96,6 @@ A web-based pharmacy management application featuring medicine management, inven
 **Nishtha Parve**
 
 * GitHub: https://github.com/Nishthaparve
-* LinkedIn: Add your LinkedIn profile link
-* Email: Add your email address
 
 ---
 
