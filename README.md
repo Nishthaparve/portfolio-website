@@ -4,12 +4,8 @@ A responsive and modern portfolio website showcasing my skills, projects, certif
 
 ## 🚀 Live Demo
 
-> Add your deployed website link here after deployment.
-
-Example:
-
 ```text
-https://your-portfolio.vercel.app
+https://portfolio-website-nishtha-parve.vercel.app/
 ```
 
 ---
